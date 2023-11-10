@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 class LabelsScreen extends StatelessWidget {
+  static const String name = 'label_screen';
   const LabelsScreen({super.key});
 
   @override

@@ -26,6 +26,36 @@ const appMenuItems = <MenuItems>[
       link: '/cards',
       icon: Icons.credit_card_outlined),
   MenuItems(
+      title: 'Animated',
+      subTitle: 'Flutter Animated',
+      link: '/animated',
+      icon: Icons.animation_rounded),
+  MenuItems(
+      title: 'Tutorial',
+      subTitle: 'Flutter Tutorial',
+      link: '/tutorial',
+      icon: Icons.document_scanner_rounded),
+  MenuItems(
+      title: 'Infinite Scroll',
+      subTitle: 'Flutter Infinite Scroll',
+      link: '/infinite_scroll',
+      icon: Icons.single_bed_rounded),
+  MenuItems(
+      title: 'Progress',
+      subTitle: 'Flutter Progress',
+      link: '/progress',
+      icon: Icons.auto_awesome_mosaic_rounded),
+  MenuItems(
+      title: 'Snackbar',
+      subTitle: 'Flutter Labels',
+      link: '/snackbar',
+      icon: Icons.snapchat_rounded),
+  MenuItems(
+      title: 'UI Controls',
+      subTitle: 'Flutter UI Controls',
+      link: '/ui_controls',
+      icon: Icons.dashboard_customize_rounded),
+  MenuItems(
       title: 'Labels',
       subTitle: 'Flutter Labels',
       link: '/labels',

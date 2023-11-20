@@ -41,10 +41,10 @@ const appMenuItems = <MenuItems>[
       link: '/infinite_scroll',
       icon: Icons.single_bed_rounded),
   MenuItems(
-      title: 'Progress',
-      subTitle: 'Flutter Progress',
+      title: 'Progress Indicator',
+      subTitle: 'Generales y Controlados',
       link: '/progress',
-      icon: Icons.auto_awesome_mosaic_rounded),
+      icon: Icons.refresh_rounded),
   MenuItems(
       title: 'Snackbar',
       subTitle: 'Flutter Labels',

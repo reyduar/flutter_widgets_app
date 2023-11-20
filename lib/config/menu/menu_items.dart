@@ -46,7 +46,7 @@ const appMenuItems = <MenuItems>[
       link: '/progress',
       icon: Icons.refresh_rounded),
   MenuItems(
-      title: 'Snackbar',
+      title: 'Snackbar and Dialogs',
       subTitle: 'Flutter Labels',
       link: '/snackbar',
       icon: Icons.snapchat_rounded),

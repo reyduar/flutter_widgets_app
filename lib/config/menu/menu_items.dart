@@ -27,7 +27,7 @@ const appMenuItems = <MenuItems>[
       icon: Icons.credit_card_outlined),
   MenuItems(
       title: 'Animated',
-      subTitle: 'Flutter Animated',
+      subTitle: 'Stateful Widget Animated',
       link: '/animated',
       icon: Icons.animation_rounded),
   MenuItems(

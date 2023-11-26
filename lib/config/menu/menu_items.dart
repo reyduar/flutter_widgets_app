@@ -37,7 +37,7 @@ const appMenuItems = <MenuItems>[
       icon: Icons.document_scanner_rounded),
   MenuItems(
       title: 'Infinite Scroll',
-      subTitle: 'Flutter Infinite Scroll',
+      subTitle: 'Infinite Scroll and Pull to Refresh',
       link: '/infinite_scroll',
       icon: Icons.single_bed_rounded),
   MenuItems(

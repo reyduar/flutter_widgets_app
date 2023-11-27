@@ -56,8 +56,8 @@ const appMenuItems = <MenuItems>[
       link: '/ui_controls',
       icon: Icons.dashboard_customize_rounded),
   MenuItems(
-      title: 'Labels',
-      subTitle: 'Flutter Labels',
-      link: '/labels',
-      icon: Icons.label_important_rounded),
+      title: 'Riverpod Counter',
+      subTitle: 'Counter',
+      link: '/counter',
+      icon: Icons.countertops_rounded),
 ];

@@ -60,4 +60,9 @@ const appMenuItems = <MenuItems>[
       subTitle: 'Counter',
       link: '/counter',
       icon: Icons.countertops_rounded),
+  MenuItems(
+      title: 'Riverpod Theme Changer',
+      subTitle: 'Theme Changer',
+      link: '/theme_changer',
+      icon: Icons.color_lens_outlined),
 ];
